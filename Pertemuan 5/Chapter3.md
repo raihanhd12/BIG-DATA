@@ -3,31 +3,34 @@
 ### **Tugas**      : Pertemuan 5
 # 
 
-# Screenshot App
+# Screenshot dan Penjelasan
 
 <table>
   <tr align="center">
     <td>
-    Login
-    <td> <img src="https://user-images.githubusercontent.com/95725937/200824056-900b825b-06ed-485b-a62b-83b1d2c93e18.jpg" width=70% height=70%></td>
+    Accumulator
+    <td> <img src="https://user-images.githubusercontent.com/95725937/227154198-9bc0d6b6-d351-4df0-a201-d85b6f42fe16.png" width=70% height=70%></td>
     </td>
     </tr>
     <tr align="center">
     <td>    
-    Logout
-    <td><img src="https://user-images.githubusercontent.com/95725937/200824489-1aae0dc3-7d1c-45f1-8926-a7aece18c314.jpg" width=70% height=70%></td>
+    Broadcast
+    <td><img src="https://user-images.githubusercontent.com/95725937/227154393-c896915a-a461-4193-bf72-1d5cf854e493.png" width=70% height=70%></td>
     </td>
     </tr>
     <tr align="center">
     <td>
-    Halaman Kategori
-    <td><img src="https://user-images.githubusercontent.com/95725937/200824693-a0b4bc94-8569-4dcf-ab62-75f55c634516.jpg" width=70% height=70%></td>
+    PairRDD
+    <td><img src="https://user-images.githubusercontent.com/95725937/227154401-7b816658-e21d-44ba-8156-ec19e3f97f41.png" width=70% height=70%></td>
     </td>
     </tr>
     <tr align="center">
     <td>
-    Tambah Kategori
-    <td><img src="https://user-images.githubusercontent.com/95725937/200824822-9c17f81c-21f2-4f97-9216-43be67355baa.jpg" width=70% height=70%></td>
+    WordCount
+    <td>
+      <img src="https://user-images.githubusercontent.com/95725937/227154712-aae7c89b-8240-4850-b369-4407c315bb0b.png" width=70% height=70%>
+      <img src="https://user-images.githubusercontent.com/95725937/227154745-a9869069-51da-48c7-aed3-b0dae5d12bc2.png" width=70% height=70%>  
+  </td>
     </td>
     </tr>
     <tr align="center">
