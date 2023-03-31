@@ -8,17 +8,20 @@ Kode 1 - Accumulator: sc, accumulator, parallelize, lambda, value
 
 Kode 2 - Broadcast: broadcast, list, range
 
+Kode 3 - PairRDD: map, collect, len, keys, values
 
-Kode 3 - LogAnalytics: textFile, filter, cache, count
+Kode 4 - WordCount: flatMap, reduceByKey, split
+
+Kode 5 - SystemCommandsOutput
+
+Kode 6 - SystemCommandsReturnCode
+
+Kode 7 - LogAnalytics: textFile, filter, cache, count
+
+Kode 8 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
 
 
-Kode 4 - PairRDD: map, collect, len, keys, values
 
-
-Kode 5 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
-
-
-Kode 6 - WordCount: flatMap, reduceByKey, split
 <table>
   <tr align="center">
     <td>
