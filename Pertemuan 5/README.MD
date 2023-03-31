@@ -3,22 +3,22 @@
 ### **Tugas**      : Pertemuan 5
 
 # Screenshot dan Penjelasan
-Kode 1: sc, accumulator, parallelize, lambda, value
+Kode 1 - Accumulator: sc, accumulator, parallelize, lambda, value
  
 
-Kode 2: broadcast, list, range
+Kode 2 - Broadcast: broadcast, list, range
 
 
-Kode 3: textFile, filter, cache, count
+Kode 3 - LogAnalytics: textFile, filter, cache, count
 
 
-Kode 4: map, collect, len, keys, values
+Kode 4 - PairRDD: map, collect, len, keys, values
 
 
-Kode 5: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
+Kode 5 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
 
 
-Kode 6: flatMap, reduceByKey, split
+Kode 6 - WordCount: flatMap, reduceByKey, split
 <table>
   <tr align="center">
     <td>
