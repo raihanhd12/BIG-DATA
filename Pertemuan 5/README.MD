@@ -1,10 +1,24 @@
 ### **Nama**      : Raihan Hidayatullah Djunaedi
 ### **Kelas**     : TI -3B
 ### **Tugas**      : Pertemuan 5
-# 
 
 # Screenshot dan Penjelasan
+Kode 1: sc, accumulator, parallelize, lambda, value
+ 
 
+Kode 2: broadcast, list, range
+
+
+Kode 3: textFile, filter, cache, count
+
+
+Kode 4: map, collect, len, keys, values
+
+
+Kode 5: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
+
+
+Kode 6: flatMap, reduceByKey, split
 <table>
   <tr align="center">
     <td>
