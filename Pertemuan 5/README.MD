@@ -3,24 +3,69 @@
 ### **Tugas**      : Pertemuan 5
 
 # Screenshot dan Penjelasan
-Kode 1 - Accumulator: sc, accumulator, parallelize, lambda, value
- 
+Kode 1 - Accumulator: sc, accumulator, parallelize, lambda, value 
+
+- sc adalah objek yang bertanggung jawab untuk membuat koneksi ke cluster Spark dan mengatur konfigurasi yang diperlukan untuk menjalankan aplikasi Spark.
+
+- accumulator adalah tipe variabel yang dapat digunakan untuk mengakumulasi nilai secara paralel pada cluster Spark. 
+
+- parallelize adalah metode pada objek SparkContext yang digunakan untuk membuat RDD dari data yang ada di memori lokal. 
+
+- lambda adalah sebuah fungsi anonim pada Python yang dapat digunakan untuk melakukan operasi sederhana pada setiap elemen RDD.
+
+- value adalah atribut pada objek accumulator yang digunakan untuk mengakses nilai terakhir yang diakumulasi pada accumulator tersebut.
 
 Kode 2 - Broadcast: broadcast, list, range
 
+- Broadcast dalam Pyspark digunakan untuk mengirimkan variabel yang hanya perlu dibaca dan tidak diubah ke setiap node dalam cluster.
+
+- List dapat digunakan untuk menyimpan dan mengakses sejumlah nilai yang berbeda secara bersamaan.
+
+- Fungsi range pada Pyspark dapat digunakan untuk menghasilkan rentang nilai numerik dalam suatu list. 
+
 Kode 3 - PairRDD: map, collect, len, keys, values
+
+- Fungsi map digunakan untuk mengaplikasikan fungsi pada setiap elemen PairRDD dan mengembalikan RDD baru yang terdiri dari pasangan kunci dan nilai baru.
+
+- Fungsi collect digunakan untuk mengumpulkan semua elemen RDD menjadi suatu koleksi pada driver program.
+
+- Fungsi len digunakan untuk menghitung jumlah elemen dalam RDD.
+
+- Fungsi keys digunakan untuk mengembalikan RDD baru yang hanya terdiri dari kunci dalam setiap pasangan kunci dan nilai di RDD.
+
+- Fungsi values digunakan untuk mengembalikan RDD baru yang hanya terdiri dari nilai dalam setiap pasangan kunci dan nilai di RDD.
 
 Kode 4 - WordCount: flatMap, reduceByKey, split
 
-Kode 5 - SystemCommandsOutput
+- Fungsi flatMap digunakan untuk memisahkan setiap baris dalam teks menjadi kata-kata terpisah.
 
-Kode 6 - SystemCommandsReturnCode
+- Fungsi reduceByKey digunakan untuk menghitung jumlah kemunculan kata pada RDD.
+
+- Fungsi split digunakan untuk memecah setiap baris teks menjadi array kata-kata yang terpisah berdasarkan pemisah spasi atau karakter lain yang ditentukan.
 
 Kode 7 - LogAnalytics: textFile, filter, cache, count
 
+- Fungsi textFile digunakan untuk membaca file log dan mengembalikan RDD baru dengan satu baris teks sebagai elemen RDD.
+
+- Fungsi filter digunakan untuk memfilter baris-baris teks yang mengandung pola tertentu dalam RDD.
+
+- Fungsi cache digunakan untuk menyimpan RDD di memori untuk mengoptimalkan kinerja proses pengolahan data berulang.
+
+- Fungsi count digunakan untuk menghitung jumlah elemen dalam RDD.
+
 Kode 8 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
 
+- Fungsi defaultParallelism digunakan untuk mendapatkan jumlah partisi default yang digunakan oleh RDD. 
 
+- Fungsi getNumPartitions digunakan untuk mendapatkan jumlah partisi yang digunakan oleh RDD saat ini.
+
+- Fungsi mapPartitionsWithIndex digunakan untuk menerapkan fungsi pada setiap partisi RDD dengan indeks partisi sebagai parameter masukan.
+
+- Fungsi repartition digunakan untuk memecah ulang RDD menjadi sejumlah partisi yang baru.
+
+- Fungsi coalesce digunakan untuk menggabungkan beberapa partisi menjadi satu partisi. 
+
+- Fungsi toDebugString digunakan untuk mendapatkan string yang mewakili struktur RDD saat ini.
 
 <table>
   <tr align="center">
