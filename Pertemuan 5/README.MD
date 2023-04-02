@@ -111,6 +111,15 @@ Kode 8 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWi
   </td>
     </td>    
     </tr>
+        <tr align="center">
+    <td>
+    UnderstandingRDD
+         <td>      
+      <img src="https://user-images.githubusercontent.com/95725937/229346307-64ae438f-2dcd-4cc0-b603-53b9a1eb9ee0.png" width=70% height=70%><br>
+           
+  </td>
+    </td>    
+    </tr>
     <tr align="center">
     <td>
     SystemCommandsReturnCode
