@@ -101,6 +101,15 @@ Kode 8 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWi
       Pertama, kode membaca file README.md menggunakan metode textFile dari SparkContext sc. Selanjutnya, teks dalam file tersebut dibagi menjadi kata-kata dengan menggunakan fungsi split pada setiap baris teks melalui metode flatMap. Setiap kata dalam RDD tersebut akan dibuat menjadi tuple dengan nilai awal 1 melalui fungsi map. Setiap tuple dengan kata yang sama akan dijumlahkan melalui metode reduceByKey dengan menggunakan fungsi add untuk menjumlahkan nilai. Hal ini dilakukan untuk melakukan penghitungan kata yang serupa dalam file. Hasil penghitungan jumlah kemunculan kata-kata disimpan dalam variabel output menggunakan metode collect, dan kemudian dicetak ke layar menggunakan for loop untuk mengiterasi setiap kata dan jumlah kemunculan dalam variabel output. Jumlah kemunculan kata dicetak dengan format "kata: jumlah".
   </td>
     </td>
+        </tr>
+    <tr align="center">
+    <td>
+    LogAnalytics
+         <td>      
+      <img src="https://user-images.githubusercontent.com/95725937/229344529-729a313b-8224-4c0e-8618-c8d309d40d13.png" width=70% height=70%><br>
+           
+  </td>
+    </td>    
     </tr>
     <tr align="center">
     <td>
