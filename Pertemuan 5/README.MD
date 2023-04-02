@@ -43,7 +43,7 @@ Kode 4 - WordCount: flatMap, reduceByKey, split
 
 - Fungsi split digunakan untuk memecah setiap baris teks menjadi array kata-kata yang terpisah berdasarkan pemisah spasi atau karakter lain yang ditentukan.
 
-Kode 7 - LogAnalytics: textFile, filter, cache, count
+Kode 5 - LogAnalytics: textFile, filter, cache, count
 
 - Fungsi textFile digunakan untuk membaca file log dan mengembalikan RDD baru dengan satu baris teks sebagai elemen RDD.
 
@@ -53,7 +53,7 @@ Kode 7 - LogAnalytics: textFile, filter, cache, count
 
 - Fungsi count digunakan untuk menghitung jumlah elemen dalam RDD.
 
-Kode 8 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
+Kode 6 - UnderstandingRDD: defaultParallelism, getNumPartitions, mapPartitionsWithIndex, repartition, coalesce, toDebugString
 
 - Fungsi defaultParallelism digunakan untuk mendapatkan jumlah partisi default yang digunakan oleh RDD. 
 
