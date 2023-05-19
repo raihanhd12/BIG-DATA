@@ -22,7 +22,7 @@
 </details>
 
 ## Pertanyaan
-<img src = 'https://user-images.githubusercontent.com/95725937/232274361-4045e4c8-9e8c-409d-810e-a31324045822.png' width=40% height=30%>
+<img src = 'https://github.com/raihanhd12/BIG-DATA/assets/95725937/e1d2c0ab-07dc-4b8d-969b-595826b2e68a' width=60% height=50%>
 
 ## Jawaban
   ```sh
@@ -86,7 +86,7 @@
     <td>
     Analitik DataFrame
     <td> 
-      <img src="https://user-images.githubusercontent.com/95725937/232275028-2a2ffa18-241f-4a67-b3a6-98ba25b0bbbd.png"><br><br>
+      <img src="https://github.com/raihanhd12/BIG-DATA/blob/main/spark-streaming/01_stateless/stateless.png"><br><br>
       <img src="https://user-images.githubusercontent.com/95725937/232275030-62c5ac82-acb8-4336-b360-f697923d2244.png">
     </td>
     </td>
